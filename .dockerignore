@@ -1,0 +1,9 @@
+# compiled output
+/dist
+/tmp
+/out-tsc
+/bin
+/obj
+/wwwroot
+/node_modules
+/.idea
